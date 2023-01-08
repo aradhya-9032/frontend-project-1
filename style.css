@@ -1,10 +1,3 @@
-  .container {
-    position: relative;
-    width: 1728px;
-    height: 51px;
-    background: #FFFFFF;
-    margin-inline-start: 10px;
-} 
 
  header
 {
@@ -17,23 +10,20 @@
     color: #000000; 
 }  
 
- h5{
-margin-inline-start: 40px;
-background: #FFFFFF;
-}
 
 .rectangle1
 {
     box-sizing: border-box;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    border: 2px solid #000000;
     position: absolute;
-    width: 1000px;
-    height: 400px;
+    width: 1407px;
+    height: 240px;
     left: 38px;
-    top: 13px;
-    padding-left: 70px;
-    padding-top: 50px;
-    padding-right: 50px;
-    border: 2px solid #000000; 
+    top: 20px;
+ 
 } 
 
  .image 
@@ -43,18 +33,18 @@ background: #FFFFFF;
     font-weight: 700px;
     font-size: 50px;
     line-height: 77px;
-    padding-top: 400px;
-    padding-left: 50px;
-    text-decoration-line: underline
+    padding-top: 250px;
+    padding-left: 20px;
+    text-decoration-line: underline;
 } 
 img
 {
-  padding-left: 50px;
+  padding-left: 20px;
 }
 
  .tirvia
 {
-    padding-left: 50px;
+    padding-left: 10px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -68,21 +58,21 @@ img
 {
     font-size: 20px;
     font-style:normal;
-    padding-left: 20px;
+    padding-left: 10px;
     
 } 
 
 a,a
 
  {
-    font-weight: 200px;
+    font-weight: 150px;
     font-size: 20px;
+    color:black
 
  }
 
   p
 
  {
-    font-size: 20px;  
+    font-size: 18px;  
  } 
- 
